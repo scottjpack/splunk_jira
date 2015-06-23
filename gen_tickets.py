@@ -10,7 +10,7 @@ from client import GreenHopper
 import jira_queues
 import datetime
 
-jira_url = https://jira.omniture.com:443
+jira_url = "https://your-jira.corp.com"
 watchers = []
 label_list = []
 epic_link = "EPIC NAME"
